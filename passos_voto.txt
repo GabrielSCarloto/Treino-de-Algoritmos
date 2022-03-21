@@ -1,0 +1,5 @@
+Verificar a idade
+	Se a idade for menor que 16 anos, exibir que não pode votar
+	Se a idade não for menor que 16 anos e maior que 18 anos, exibir que o voto é facultativo
+	Se a idade for maior que 18 anos e menor que 70 anos, exibir que o voto é obrigatório
+	Se a idade for maior que 70 anos, exibir que o voto é facultativo
